@@ -142,4 +142,5 @@ lfw.zip
 dogImages.zip
 data/
 model_transfer.pt
+model_transfer.onnx
 Project Review.docx
